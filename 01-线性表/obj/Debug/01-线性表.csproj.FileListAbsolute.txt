@@ -1,0 +1,7 @@
+E:\VSProjects\数据结构学习\01-线性表\bin\Debug\01-线性表.exe.config
+E:\VSProjects\数据结构学习\01-线性表\bin\Debug\01-线性表.exe
+E:\VSProjects\数据结构学习\01-线性表\bin\Debug\01-线性表.pdb
+E:\VSProjects\数据结构学习\01-线性表\obj\Debug\01-线性表.csprojResolveAssemblyReference.cache
+E:\VSProjects\数据结构学习\01-线性表\obj\Debug\01-线性表.csproj.CoreCompileInputs.cache
+E:\VSProjects\数据结构学习\01-线性表\obj\Debug\01-线性表.exe
+E:\VSProjects\数据结构学习\01-线性表\obj\Debug\01-线性表.pdb
