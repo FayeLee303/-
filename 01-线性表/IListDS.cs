@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _01_线性表
 {
-    interface IListDS<T>
+    public interface IListDS<T>
     {
         /// <summary>
         /// 获得链表的长度

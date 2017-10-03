@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-线性表", "01-线性表\01-线性表.csproj", "{6ADC9020-184E-4215-9175-FECF0E68D609}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-单链表", "02-单链表\02-单链表.csproj", "{8CA31C1F-62D1-4682-AE2E-A0727016C709}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6ADC9020-184E-4215-9175-FECF0E68D609}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ADC9020-184E-4215-9175-FECF0E68D609}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ADC9020-184E-4215-9175-FECF0E68D609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA31C1F-62D1-4682-AE2E-A0727016C709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA31C1F-62D1-4682-AE2E-A0727016C709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA31C1F-62D1-4682-AE2E-A0727016C709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA31C1F-62D1-4682-AE2E-A0727016C709}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
